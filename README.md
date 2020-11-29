@@ -1,1 +1,1 @@
-This is the design of a free jukebox playing cd
+This is the design and main functionalities of a free jukebox playing CDs
